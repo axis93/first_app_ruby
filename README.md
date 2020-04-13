@@ -1,24 +1,5 @@
-# README
+# First Ruby application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the first Ruby application that is achieved by learning "The Complete Ruby on Rails developer Course" by Mashrur Hossain
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is only done in order to follow strictly what the instructor says, and it will be probably deleted soon.
